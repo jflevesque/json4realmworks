@@ -68,7 +68,6 @@ namespace dndsanitizer
 
         public static string JoinAsParagraphs(IEnumerable<string> paragraphs)
         {
-            const string delimiter = ParagraphEnd + ParagraphStart;
             return String.Join(string.Empty, paragraphs);
         }
 

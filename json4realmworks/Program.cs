@@ -14,7 +14,7 @@ namespace dndsanitizer
         private const int DefaultTimeoutInMilliseconds = 5000;
         static void Main(string[] args)
         {
-            var tasks = new [] {/*ConvertMonsters(),*/ ConvertSpells()};
+            var tasks = new [] {ConvertMonsters(), ConvertSpells()};
             Task.WaitAll(tasks, DefaultTimeoutInMilliseconds);
             Console.WriteLine("Done. Press a key to end this program.");
             Console.ReadKey();
