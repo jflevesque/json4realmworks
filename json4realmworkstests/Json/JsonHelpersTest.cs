@@ -1,10 +1,10 @@
-using dndsanitizer.Json;
-using dndsanitizer.RealmsWork;
+using json4realmworks.Json;
+using json4realmworks.RealmsWork;
 using FluentAssertions;
 using System.Linq;
 using Xunit;
 
-namespace dndsanitizertests
+namespace json4realmworkstests
 {
     public class JsonHelpersTest
     {

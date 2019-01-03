@@ -1,9 +1,9 @@
-﻿using dndsanitizer.Entities;
+﻿using json4realmworks.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace dndsanitizer.RealmsWork
+namespace json4realmworks.RealmsWork
 {
     public class Creature
     {

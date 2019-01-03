@@ -1,9 +1,9 @@
-﻿using dndsanitizer;
-using dndsanitizer.RealmsWork;
+﻿using json4realmworks;
+using json4realmworks.RealmsWork;
 using FluentAssertions;
 using Xunit;
 
-namespace dndsanitizertests
+namespace json4realmworkstests
 {
     public class SpellDescriptionTest
     {

@@ -1,11 +1,11 @@
-﻿using dndsanitizer.Entities;
-using dndsanitizer.RealmsWork;
+﻿using json4realmworks.Entities;
+using json4realmworks.RealmsWork;
 using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using Action = dndsanitizer.Entities.Action;
+using Action = json4realmworks.Entities.Action;
 
-namespace dndsanitizer
+namespace json4realmworks
 {
     public class HtmlFormatter
     {

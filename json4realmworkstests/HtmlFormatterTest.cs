@@ -1,12 +1,12 @@
-﻿using dndsanitizer;
-using dndsanitizer.Entities;
-using dndsanitizer.RealmsWork;
+﻿using json4realmworks;
+using json4realmworks.Entities;
+using json4realmworks.RealmsWork;
 using FluentAssertions;
 using System;
 using Xunit;
-using Action = dndsanitizer.Entities.Action;
+using Action = json4realmworks.Entities.Action;
 
-namespace dndsanitizertests
+namespace json4realmworkstests
 {
     public class HtmlFormatterTest
     {

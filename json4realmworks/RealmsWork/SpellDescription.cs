@@ -1,4 +1,4 @@
-﻿namespace dndsanitizer.RealmsWork
+﻿namespace json4realmworks.RealmsWork
 {
     public class SpellDescription
     {

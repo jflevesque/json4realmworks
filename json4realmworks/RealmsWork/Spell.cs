@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace dndsanitizer.RealmsWork
+namespace json4realmworks.RealmsWork
 {
     public class Spell
     {

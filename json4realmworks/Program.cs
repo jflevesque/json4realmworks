@@ -1,5 +1,5 @@
-﻿using dndsanitizer.Json;
-using dndsanitizer.RealmsWork;
+﻿using json4realmworks.Json;
+using json4realmworks.RealmsWork;
 using System;
 using System.IO;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace dndsanitizer
+namespace json4realmworks
 {
     public class Program
     {

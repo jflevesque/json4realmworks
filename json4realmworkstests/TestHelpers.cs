@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace dndsanitizertests
+namespace json4realmworkstests
 {
     public static class TestHelpers
     {

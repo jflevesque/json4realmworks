@@ -1,10 +1,10 @@
-﻿using dndsanitizer.Entities;
+﻿using json4realmworks.Entities;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 
-namespace dndsanitizer.Json
+namespace json4realmworks.Json
 {
     public class JsonHelpers
     {

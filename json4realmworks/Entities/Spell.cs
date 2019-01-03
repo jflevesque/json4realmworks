@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace dndsanitizer.Entities
+namespace json4realmworks.Entities
 {
     public class Spell
     {
