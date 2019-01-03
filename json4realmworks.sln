@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "json4realmworks", "json4realmworks\json4realmworks.csproj", "{D00A4A0B-1F82-49AD-B5F0-FA41DB4C6276}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "json4realmworksTests", "json4realmworkstests\json4realmworks Tests.csproj", "{F5F3ABF8-2C9D-40B9-9C6D-C511B8FD0E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00A4A0B-1F82-49AD-B5F0-FA41DB4C6276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A4A0B-1F82-49AD-B5F0-FA41DB4C6276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A4A0B-1F82-49AD-B5F0-FA41DB4C6276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A4A0B-1F82-49AD-B5F0-FA41DB4C6276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F3ABF8-2C9D-40B9-9C6D-C511B8FD0E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F3ABF8-2C9D-40B9-9C6D-C511B8FD0E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F3ABF8-2C9D-40B9-9C6D-C511B8FD0E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F3ABF8-2C9D-40B9-9C6D-C511B8FD0E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69096608-7BC8-4126-8B97-9A7923533801}
+	EndGlobalSection
+EndGlobal

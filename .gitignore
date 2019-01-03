@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/json4realmworks/bin
+/json4realmworks/obj
+/json4realmworkstests/bin
+/json4realmworkstests/obj
+/TestResults
+/json4realmworks.sln.DotSettings.user
